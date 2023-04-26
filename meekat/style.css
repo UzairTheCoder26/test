@@ -1,0 +1,29 @@
+/* You can use any eye-catching color of your choice */
+body {
+  background-color: #f2f2f2;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  border: 2px solid #008080;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #008080;
+}
+
+th {
+  background-color: #008080;
+  color: #fff;
+}
+
+#clock {
+  font-size: 50px;
+  color: #008080;
+  text-align: center;
+  margin-top: 20px;
+}
